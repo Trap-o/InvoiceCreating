@@ -1,0 +1,14 @@
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\bin\Debug\net8.0\InvoiceCreating.exe
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\bin\Debug\net8.0\InvoiceCreating.deps.json
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\bin\Debug\net8.0\InvoiceCreating.runtimeconfig.json
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\bin\Debug\net8.0\InvoiceCreating.dll
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\bin\Debug\net8.0\InvoiceCreating.pdb
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\InvoiceCreating.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\InvoiceCreating.AssemblyInfoInputs.cache
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\InvoiceCreating.AssemblyInfo.cs
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\InvoiceCreating.csproj.CoreCompileInputs.cache
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\InvoiceCreating.dll
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\refint\InvoiceCreating.dll
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\InvoiceCreating.pdb
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\InvoiceCreating.genruntimeconfig.cache
+G:\Programming\Progs\C#\Main proga\InvoiceCreating\obj\Debug\net8.0\ref\InvoiceCreating.dll
